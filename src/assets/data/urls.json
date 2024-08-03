@@ -1,0 +1,53 @@
+{
+    "sideBar": {
+        "main": [
+            {
+                "icon": "bi bi-house",
+                "title": "Home",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-file-play",
+                "title": "Shorts",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-node-plus",
+                "title": "Subscriptions",
+                "url": "/"
+            }
+        ],
+        "you_section": [
+            {
+                "icon": "bi bi-person-lines-fill",
+                "title": "Your channel",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-clock-history",
+                "title": "History",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-list-stars",
+                "title": "Playlists",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-play-btn",
+                "title": "Your Videos",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-stopwatch",
+                "title": "Watch Later",
+                "url": "/"
+            },
+            {
+                "icon": "bi bi-hand-thumbs-up",
+                "title": "Liked Videos",
+                "url": "/"
+            }
+        ]
+    }
+}
